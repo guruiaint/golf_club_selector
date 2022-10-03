@@ -1,0 +1,7 @@
+1. Build array or dict. for club distance values (D-Lowest Wedge)
+2. Build input for raw distance
+3. Build input for wind (direction and mph)
+4. Build input for slope (up or down)
+5. Build equation and logic for output of corrected distance
+6. Build logic for determining closest club to corrected distance
+7. (Optional) Build logic to determine strength of shot (smooth or full)
